@@ -1,6 +1,6 @@
 # Project description
 This project contains implementation for games global service. 
-Implementation is an endpoint for generating and returning a subsequence from a sequence of Fibonacci numbers.
+Implementation is an API for generating and returning a subsequence from a sequence of Fibonacci numbers.
  
 # Project tools
 - ASP.NET Core Web API(For the core API)
